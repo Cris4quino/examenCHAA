@@ -1,0 +1,13 @@
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\bin\Debug\OPERACION_CHAA.exe.config
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\bin\Debug\OPERACION_CHAA.exe
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\bin\Debug\OPERACION_CHAA.pdb
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.csprojResolveAssemblyReference.cache
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.Form1.resources
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.Properties.Resources.resources
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.csproj.GenerateResource.Cache
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.exe
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.pdb
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.Form2.resources
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.solucion4.resources
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.Form3.resources
+c:\users\cristian\documents\visual studio 2015\Projects\OPERACION_CHAA\OPERACION_CHAA\obj\Debug\OPERACION_CHAA.solucion5.resources
